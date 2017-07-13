@@ -38,7 +38,7 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # google: mygoogle
-instagram: the_peter_kline
+
 # pinterest: mypinterest
 linkedin: pkline/
 # youtube: myyoutube
@@ -51,6 +51,8 @@ github: peterkline
 # medium: medium
 # vimeo: myvimeo
 email: peterkline@gmail.com
+
+instagram: the_peter_kline
 
 authors:
     johndoe:
